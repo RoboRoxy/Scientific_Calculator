@@ -50,6 +50,25 @@ class Scientific_CalculatorFrame: public wxFrame
         static const long ID_BUTTON10;
         static const long ID_BUTTON11;
         static const long ID_BUTTON12;
+        static const long ID_BUTTON13;
+        static const long ID_BUTTON20;
+        static const long ID_BUTTON14;
+        static const long ID_BUTTON15;
+        static const long ID_BUTTON16;
+        static const long ID_BUTTON17;
+        static const long ID_BUTTON18;
+        static const long ID_BUTTON19;
+        static const long ID_BUTTON21;
+        static const long ID_BUTTON22;
+        static const long ID_BUTTON23;
+        static const long ID_BUTTON24;
+        static const long ID_BUTTON25;
+        static const long ID_BUTTON26;
+        static const long ID_BUTTON27;
+        static const long ID_BUTTON28;
+        static const long ID_BUTTON29;
+        static const long ID_BUTTON30;
+        static const long ID_BUTTON31;
         static const long ID_PANEL2;
         static const long idMenuQuit;
         static const long idMenuAbout;
@@ -57,20 +76,39 @@ class Scientific_CalculatorFrame: public wxFrame
         //*)
 
         //(*Declarations(Scientific_CalculatorFrame)
+        wxButton* Button20;
         wxButton* Button4;
         wxButton* Button1;
+        wxButton* Button14;
         wxPanel* Panel1;
+        wxButton* Button26;
+        wxButton* Button22;
         wxButton* Button2;
+        wxButton* Button23;
+        wxButton* Button30;
         wxButton* Button6;
         wxButton* Button10;
         wxButton* Button11;
         wxButton* Button5;
         wxButton* Button3;
         wxButton* Button7;
+        wxButton* Button25;
+        wxButton* Button28;
         wxStatusBar* StatusBar1;
+        wxButton* Button19;
         wxButton* Button9;
+        wxButton* Button31;
+        wxButton* Button21;
         wxTextCtrl* TextCtrl1;
+        wxButton* Button17;
         wxPanel* Panel2;
+        wxButton* Button18;
+        wxButton* Button15;
+        wxButton* Button29;
+        wxButton* Button13;
+        wxButton* Button16;
+        wxButton* Button27;
+        wxButton* Button24;
         wxButton* Button8;
         wxButton* Button12;
         //*)

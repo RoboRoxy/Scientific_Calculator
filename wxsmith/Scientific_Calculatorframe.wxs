@@ -149,11 +149,220 @@
 								</object>
 								<object class="sizeritem">
 									<object class="wxButton" name="ID_BUTTON12" variable="Button12" member="yes">
-										<label>/</label>
+										<label>÷</label>
 										<size>50,30</size>
 									</object>
 									<col>6</col>
 									<row>1</row>
+									<flag>wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+									<border>5</border>
+									<option>1</option>
+								</object>
+								<object class="sizeritem">
+									<object class="wxButton" name="ID_BUTTON13" variable="Button13" member="yes">
+										<label>π</label>
+										<size>50,30</size>
+									</object>
+									<col>0</col>
+									<row>2</row>
+									<flag>wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+									<border>5</border>
+									<option>1</option>
+								</object>
+								<object class="sizeritem">
+									<object class="wxButton" name="ID_BUTTON20" variable="Button20" member="yes">
+										<label>e</label>
+										<size>50,30</size>
+									</object>
+									<col>0</col>
+									<row>3</row>
+									<flag>wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+									<border>5</border>
+									<option>1</option>
+								</object>
+								<object class="sizeritem">
+									<object class="wxButton" name="ID_BUTTON14" variable="Button14" member="yes">
+										<label>cos</label>
+										<size>50,30</size>
+									</object>
+									<col>1</col>
+									<row>2</row>
+									<flag>wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+									<border>5</border>
+									<option>1</option>
+								</object>
+								<object class="sizeritem">
+									<object class="wxButton" name="ID_BUTTON15" variable="Button15" member="yes">
+										<label>log</label>
+										<size>50,30</size>
+									</object>
+									<col>2</col>
+									<row>2</row>
+									<flag>wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+									<border>5</border>
+									<option>1</option>
+								</object>
+								<object class="sizeritem">
+									<object class="wxButton" name="ID_BUTTON16" variable="Button16" member="yes">
+										<label>4</label>
+										<size>50,30</size>
+									</object>
+									<col>3</col>
+									<row>2</row>
+									<flag>wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+									<border>5</border>
+									<option>1</option>
+								</object>
+								<object class="sizeritem">
+									<object class="wxButton" name="ID_BUTTON17" variable="Button17" member="yes">
+										<label>5</label>
+										<size>50,30</size>
+									</object>
+									<col>4</col>
+									<row>2</row>
+									<flag>wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+									<border>5</border>
+									<option>1</option>
+								</object>
+								<object class="sizeritem">
+									<object class="wxButton" name="ID_BUTTON18" variable="Button18" member="yes">
+										<label>6</label>
+										<size>50,30</size>
+									</object>
+									<col>5</col>
+									<row>2</row>
+									<flag>wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+									<border>5</border>
+									<option>1</option>
+								</object>
+								<object class="sizeritem">
+									<object class="wxButton" name="ID_BUTTON19" variable="Button19" member="yes">
+										<label>×</label>
+										<size>50,30</size>
+									</object>
+									<col>6</col>
+									<row>2</row>
+									<flag>wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+									<border>5</border>
+									<option>1</option>
+								</object>
+								<object class="sizeritem">
+									<object class="wxButton" name="ID_BUTTON21" variable="Button21" member="yes">
+										<label>tan</label>
+										<size>50,30</size>
+									</object>
+									<col>1</col>
+									<row>3</row>
+									<flag>wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+									<border>5</border>
+									<option>1</option>
+								</object>
+								<object class="sizeritem">
+									<object class="wxButton" name="ID_BUTTON22" variable="Button22" member="yes">
+										<label>√</label>
+										<size>50,30</size>
+									</object>
+									<col>2</col>
+									<row>3</row>
+									<flag>wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+									<border>5</border>
+									<option>1</option>
+								</object>
+								<object class="sizeritem">
+									<object class="wxButton" name="ID_BUTTON23" variable="Button23" member="yes">
+										<label>1</label>
+										<size>50,30</size>
+									</object>
+									<col>3</col>
+									<row>3</row>
+									<flag>wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+									<border>5</border>
+									<option>1</option>
+								</object>
+								<object class="sizeritem">
+									<object class="wxButton" name="ID_BUTTON24" variable="Button24" member="yes">
+										<label>2</label>
+										<size>50,30</size>
+									</object>
+									<col>4</col>
+									<row>3</row>
+									<flag>wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+									<border>5</border>
+									<option>1</option>
+								</object>
+								<object class="sizeritem">
+									<object class="wxButton" name="ID_BUTTON25" variable="Button25" member="yes">
+										<label>3</label>
+										<size>50,30</size>
+									</object>
+									<col>5</col>
+									<row>3</row>
+									<flag>wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+									<border>5</border>
+									<option>1</option>
+								</object>
+								<object class="sizeritem">
+									<object class="wxButton" name="ID_BUTTON26" variable="Button26" member="yes">
+										<label>-</label>
+										<size>50,30</size>
+									</object>
+									<col>6</col>
+									<row>3</row>
+									<flag>wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+									<border>5</border>
+									<option>1</option>
+								</object>
+								<object class="sizeritem">
+									<object class="wxButton" name="ID_BUTTON27" variable="Button27" member="yes">
+										<label>X^Y</label>
+										<size>50,30</size>
+									</object>
+									<col>2</col>
+									<row>4</row>
+									<flag>wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+									<border>5</border>
+									<option>1</option>
+								</object>
+								<object class="sizeritem">
+									<object class="wxButton" name="ID_BUTTON28" variable="Button28" member="yes">
+										<label>0</label>
+										<size>50,30</size>
+									</object>
+									<col>3</col>
+									<row>4</row>
+									<flag>wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+									<border>5</border>
+									<option>1</option>
+								</object>
+								<object class="sizeritem">
+									<object class="wxButton" name="ID_BUTTON29" variable="Button29" member="yes">
+										<label>.</label>
+										<size>50,30</size>
+									</object>
+									<col>4</col>
+									<row>4</row>
+									<flag>wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+									<border>5</border>
+									<option>1</option>
+								</object>
+								<object class="sizeritem">
+									<object class="wxButton" name="ID_BUTTON30" variable="Button30" member="yes">
+										<label>=</label>
+										<size>50,30</size>
+									</object>
+									<col>5</col>
+									<row>4</row>
+									<flag>wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+									<border>5</border>
+									<option>1</option>
+								</object>
+								<object class="sizeritem">
+									<object class="wxButton" name="ID_BUTTON31" variable="Button31" member="yes">
+										<label>+</label>
+										<size>50,30</size>
+									</object>
+									<col>6</col>
+									<row>4</row>
 									<flag>wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
 									<border>5</border>
 									<option>1</option>
