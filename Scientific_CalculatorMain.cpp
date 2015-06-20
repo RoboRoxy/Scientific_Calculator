@@ -134,9 +134,9 @@ Scientific_CalculatorFrame::Scientific_CalculatorFrame(wxWindow* parent,wxWindow
     GridBagSizer3->Add(Button10, wxGBPosition(1, 4), wxDefaultSpan, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
     Button11 = new wxButton(Panel2, ID_BUTTON11, _("9"), wxDefaultPosition, wxSize(50,30), 0, wxDefaultValidator, _T("ID_BUTTON11"));
     GridBagSizer3->Add(Button11, wxGBPosition(1, 5), wxDefaultSpan, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    Button12 = new wxButton(Panel2, ID_BUTTON12, _("÷"), wxDefaultPosition, wxSize(50,30), 0, wxDefaultValidator, _T("ID_BUTTON12"));
+    Button12 = new wxButton(Panel2, ID_BUTTON12, _("/"), wxDefaultPosition, wxSize(50,30), 0, wxDefaultValidator, _T("ID_BUTTON12"));
     GridBagSizer3->Add(Button12, wxGBPosition(1, 6), wxDefaultSpan, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    Button13 = new wxButton(Panel2, ID_BUTTON13, _("π"), wxDefaultPosition, wxSize(50,30), 0, wxDefaultValidator, _T("ID_BUTTON13"));
+    Button13 = new wxButton(Panel2, ID_BUTTON13, _("pi"), wxDefaultPosition, wxSize(50,30), 0, wxDefaultValidator, _T("ID_BUTTON13"));
     GridBagSizer3->Add(Button13, wxGBPosition(2, 0), wxDefaultSpan, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
     Button20 = new wxButton(Panel2, ID_BUTTON20, _("e"), wxDefaultPosition, wxSize(50,30), 0, wxDefaultValidator, _T("ID_BUTTON20"));
     GridBagSizer3->Add(Button20, wxGBPosition(3, 0), wxDefaultSpan, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
@@ -150,7 +150,7 @@ Scientific_CalculatorFrame::Scientific_CalculatorFrame(wxWindow* parent,wxWindow
     GridBagSizer3->Add(Button17, wxGBPosition(2, 4), wxDefaultSpan, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
     Button18 = new wxButton(Panel2, ID_BUTTON18, _("6"), wxDefaultPosition, wxSize(50,30), 0, wxDefaultValidator, _T("ID_BUTTON18"));
     GridBagSizer3->Add(Button18, wxGBPosition(2, 5), wxDefaultSpan, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
-    Button19 = new wxButton(Panel2, ID_BUTTON19, _("×"), wxDefaultPosition, wxSize(50,30), 0, wxDefaultValidator, _T("ID_BUTTON19"));
+    Button19 = new wxButton(Panel2, ID_BUTTON19, _("*"), wxDefaultPosition, wxSize(50,30), 0, wxDefaultValidator, _T("ID_BUTTON19"));
     GridBagSizer3->Add(Button19, wxGBPosition(2, 6), wxDefaultSpan, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);
     Button21 = new wxButton(Panel2, ID_BUTTON21, _("tan"), wxDefaultPosition, wxSize(50,30), 0, wxDefaultValidator, _T("ID_BUTTON21"));
     GridBagSizer3->Add(Button21, wxGBPosition(3, 1), wxDefaultSpan, wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL, 5);

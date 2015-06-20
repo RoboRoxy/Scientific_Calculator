@@ -149,7 +149,7 @@
 								</object>
 								<object class="sizeritem">
 									<object class="wxButton" name="ID_BUTTON12" variable="Button12" member="yes">
-										<label>÷</label>
+										<label>/</label>
 										<size>50,30</size>
 									</object>
 									<col>6</col>
@@ -160,7 +160,7 @@
 								</object>
 								<object class="sizeritem">
 									<object class="wxButton" name="ID_BUTTON13" variable="Button13" member="yes">
-										<label>π</label>
+										<label>pi</label>
 										<size>50,30</size>
 									</object>
 									<col>0</col>
@@ -237,7 +237,7 @@
 								</object>
 								<object class="sizeritem">
 									<object class="wxButton" name="ID_BUTTON19" variable="Button19" member="yes">
-										<label>×</label>
+										<label>*</label>
 										<size>50,30</size>
 									</object>
 									<col>6</col>
